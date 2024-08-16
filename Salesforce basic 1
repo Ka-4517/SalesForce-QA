@@ -13,9 +13,19 @@ Salesforce is the worlds best CRM that provides sales & marketing & serives & th
 ine platform. 
 
 Various salesforce cloud ?
-Sales Cloud : CRM platform enables to manage sales , b2b,b2c services & maintenence.
-Marketing Cloud : Enables to manage customers information , email , mobile , content , media's etc. 
-Service Cloud : Enables to provide services to customers like case tracking , plugins , gives an access to answer. 
-Community Cloud : Social platform for your orhganization ,can use this platform to exchange data & info. 
-Analytics Cloud : Provides a business manage platform , to manage data , create graphs & charts , data visualization.
-App Cloud : It provides you a featuristic tools to help in development of applcations.
+Sales Cloud : CRM platform enables to manage sales, b2b,b2c services & maintenance.
+Marketing Cloud: Enables managing customers information, email, mobile, content, media etc. 
+Service Cloud: Enables providing services to customers like case tracking, plugins, and gives access to answers. 
+Community Cloud: Social platform for your organization,can use this platform to exchange data & info. 
+Analytics Cloud: Provides a business manage platform, to manage data, create graphs & charts, and data visualization.
+App Cloud: It provides you a futuristic tools to help in the development of applications.
+
+Salesforce Sandbox: allows developers to test ideas in a safe & isolated development environment.
+
+Salesforce Lightening: is the new User Interface by Salesforce. It comes with a convenient new design, more productivity 
+tools & more functionality such as AI which helps stream business processes. 
+
+Difference Between Lightening & classic ?
+https://help.salesforce.com/s/articleView?id=sf.lex_aloha_comparison.htm&type=5 
+Read fron this ^
+
